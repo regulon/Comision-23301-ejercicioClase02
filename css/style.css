@@ -48,18 +48,3 @@ img{
 .cursos h3 span{
     font-style: italic;
 }
-#cont1{
-    position: relative;
-    top: 250px;
-    left: 50px;
-    font-style: oblique;
-}
-#cont2{
-    position: relative;
-    top: 190px;
-    left: 5px;
-    font-style: italic;
-}
-#boton{
-    margin-top: 3px;
-}
